@@ -1,7 +1,14 @@
 .container1 {
     width: 200px;
     height: 100px;
-    background-color: red;
+    background-color: red;   
+    border-style: solid;
+    border-color: green;
+    border-width: 20px;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
     float:left; 
     position:relative;
     margin-top: 10px;
@@ -14,6 +21,13 @@
     width: 200px;
     height: 100px;
     background-color: yellow;
+    border-style: solid;
+    border-color: red;
+    border-width: 20px;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
     float:left; 
     position: relative;
     margin-top: 10px;
@@ -26,6 +40,13 @@
     width: 200px;
     height: 100px;
     background-color: green;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 20px;
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
     float:left; 
     position:relative;
     margin-top: 10px;
