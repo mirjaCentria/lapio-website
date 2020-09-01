@@ -1,0 +1,27 @@
+* {
+    color: yellow;
+  }
+
+  h1 {
+    color: blue;
+  }
+
+  h2 {
+    color: darkred;
+  }
+
+  h3 {
+    color: orange;
+  }
+
+  .firstlist {
+    color: darkred;
+  }
+
+  a {
+    color: orange;
+  }
+
+  #other {
+    color: darkblue;
+  }
